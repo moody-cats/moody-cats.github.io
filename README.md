@@ -19,10 +19,10 @@ MOODY CATS
 
 <p class="sweet"> To observe, judge and ignore! </p>
 
-<img src="images/cat2.png" alt="panda image" class="catimgr">
+<img src="images/cat2.png" alt="cat image" class="catimgr">
 
 
-<img src="images/cat4.png" alt="panda image" class="catimgm">
+<img src="images/cat4.png" alt="cat image" class="catimgm">
 
 <hr>
 <br>
