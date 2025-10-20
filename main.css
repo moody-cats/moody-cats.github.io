@@ -119,7 +119,7 @@ width: 250px;
  background-color: transparent;
 opacity:0.1;
 border-radius:0px;
-height:99%;
+height:;
  position: fixed;
 z-index:-1;
   bottom: 0px; 
@@ -279,7 +279,7 @@ border-radius:15px;}
 
 #menu ul{width:auto;
 float:center;
-margin-left:0%;
+margin-left:15%;
 display:block;
 opacity: 1;
 font-family:cursive;
@@ -314,7 +314,7 @@ font-size:40px;
 
 h2 {
     font-family: 'Amatic SC', cursive;
-color:Green;
+color:orange;
 text-align:center;
 font-size:30px;
 }
