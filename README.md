@@ -26,7 +26,7 @@ MOODY CATS
 
 <hr>
 <br>
-<br>
+
 <div id=menu>
 <ul>
 
