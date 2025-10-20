@@ -14,7 +14,7 @@ MOODY CATS
 </title>
 </head>
 <body>
-<h1> <a href="https://bamboodiaries.github.io">MOODY CATS</a></h1>
+<h1> <a href="https://themoodycats.github.io">MOODY CATS</a></h1>
 <img src="images/cat3.png" class="catimgl">
 
 <p class="sweet"> To observe, judge and ignore! </p>
